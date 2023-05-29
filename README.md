@@ -1,12 +1,8 @@
 # CRUD-Application
-A CRUD Application based on ReactJS, NodeJS, Express JS &amp; MySQL 
+A CRUD Application based on React, Node, Express, MongoDB 
 
--> (npm i body-parser cors express mysql) command is used to install necessary dependencies.
+React --> npm install create-react-app --global (CMD command to install react globally in your PC)
 
--> body-parser middleware simplifies request handling and parses requests
+Express --> npm i express (install react packages in a project)
 
--> cors middleware is an express JS application [Cross Origin Resource Sharing]. This mechanism allows resources (such as APIs) on a web page to be requested from a different domain
-
--> express is a web application framework for Node JS and helps to create robust and scalable web APIs or server-side applications along with handling routing, request/response handling
-
--> mysql is a Node.js driver for MySQL databases
+MongoDB --> npm i mongoose (install mongoose package to interact with Mongo DB) 
